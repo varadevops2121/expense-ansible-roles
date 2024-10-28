@@ -1,7 +1,7 @@
 - name: create ec2 and r53 records
   hosts: localhost
   vars:
-    zone: b12nagafacebook.xyz
+    zone: lerndevops.online 
     instances:
     - db
     - backend

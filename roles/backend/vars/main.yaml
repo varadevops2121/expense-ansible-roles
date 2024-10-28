@@ -1,6 +1,6 @@
 login_user: root
-login_host: db.b12nagafacebook.xyz
+login_host: db.lerndevops.online
 login_password: ExpenseApp@1
-DB_HOST: db.b12nagafacebook.xyz
+DB_HOST: db.lerndevops.online 
 app_location: /app
 component: backend
